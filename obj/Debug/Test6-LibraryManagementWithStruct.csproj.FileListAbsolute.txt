@@ -1,0 +1,7 @@
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\bin\Debug\Test6_LibraryManagementWithStruct.exe
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\bin\Debug\Test6_LibraryManagementWithStruct.pdb
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\obj\Debug\Test6-LibraryManagementWithStruct.csproj.AssemblyReference.cache
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\obj\Debug\Test6-LibraryManagementWithStruct.csproj.SuggestedBindingRedirects.cache
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\obj\Debug\Test6-LibraryManagementWithStruct.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\obj\Debug\Test6_LibraryManagementWithStruct.exe
+E:\Computer\DotNet\C#\C#\Console C#\1_Console_Rahimlotfi\Exam\Test6-LibraryManagementWithStruct\obj\Debug\Test6_LibraryManagementWithStruct.pdb
